@@ -4,7 +4,6 @@ import React,{useState} from 'react'
 
 function page() {
   const [count,setcount] = useState(0)
-  
   return (
     <div>
       <h1>my home page</h1>
